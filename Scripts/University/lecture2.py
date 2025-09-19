@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 import os
 
 API_URL = "https://poli.instructure.com/api/v1"
-TOKEN = "8994~rABkDzmaDzmJNwuF4Y73Zz82fr9QxrEwFW3JcxE7NeXwGaNN4GXBHmBKxuHZ9KRJ"
+TOKEN = "----"
 headers = {"Authorization": f"Bearer {TOKEN}"}
 
 #id course
