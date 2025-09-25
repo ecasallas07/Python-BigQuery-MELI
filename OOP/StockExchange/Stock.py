@@ -6,9 +6,8 @@ class Stock:
     def __init__(self):
         self.__symbol = input('Enter the ticker: ')
 
-    def update_price(self,new_price):
-        
-        
+    def update_price(self,symbol,new_price):
+        self.set_symbol(symbol,new_price)
         
     def register_ticker(self,symbol, price):
         self.set_symbol(symbol, price)
