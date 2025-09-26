@@ -16,6 +16,12 @@ def scrape_site(url,selectors):
                 'image_url':box.select_one(selectors['image'])['src'],
                 'link':box.select_one(selectors['link'])['href']   
             }
+            
+            if promotion['title'] and promotion['price']:
+                promotions.append(promotion)
+                
         except AttributeError:
             continue    
+        
+        
     return promotions

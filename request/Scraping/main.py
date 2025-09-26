@@ -7,7 +7,10 @@ for site in SITES:
     print(f"Scraping {site['name']}...")
     
     promotions = scrape_site(site['url'], site['selectors'])
+    print(f"Encontradas: {len(promotions)} promociones") 
     all_promotions.extend(promotions)
+    
+    
 with open('promotions.json', 'w') as f:
     json.dump(all_promotions, f, indent=4)
     

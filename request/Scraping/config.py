@@ -1,24 +1,13 @@
 SITES = [
     {
-        'name': 'E-commerce 1',
-        'url': 'https://www.ecommerce1.com/promotions',
+        'name': 'Mercado Libre',
+        'url': 'https://www.mercadolibre.com.co/ofertas',
         'selectors': {
-            'container': '.promo-container',  # Selector del contenedor de cada promoción
-            'title': '.promo-title',         # Selector del título del producto
-            'price': '.promo-price',         # Selector del precio
-            'link': '.promo-link',           # Selector del enlace
-            'image': '.promo-image'          # Selector de la imagen
+            'container': '.andes-card.poly-card',                # Contenedor de cada promo
+            'title': '.poly-component__title',                   # Título del producto
+            'price': '.poly-price__current .andes-money-amount__fraction', # Precio actual
+            'link': '.poly-component__title',                    # Enlace (href)
+            'image': '.poly-component__picture'                  # Imagen
         }
     },
-    {
-        'name': 'E-commerce 2',
-        'url': 'https://www.ecommerce2.com/deals',
-        'selectors': {
-            'container': '.deal-item',
-            'title': '.deal-title',
-            'price': '.deal-price',
-            'link': '.deal-link',
-            'image': '.deal-image'
-        }
-    }
 ]
