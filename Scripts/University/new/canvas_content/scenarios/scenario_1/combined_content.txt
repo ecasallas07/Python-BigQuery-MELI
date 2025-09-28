@@ -1,0 +1,11 @@
+SCENARIO: SCENARIO_1
+============================================================
+
+PAGE: Escenario 1
+----------------------------------------
+
+
+PAGE: Inicio
+----------------------------------------
+MENÚXINICIOESCENARIO 1ESCENARIO 2ESCENARIO 3ESCENARIO 4ESCENARIO 5ESCENARIO 6ESCENARIO 7ESCENARIO 8Bienvenidos aARQUITECTURA DEL SOFTWAREApreciado estudiante:Escenarios para el aprendizaje es la nueva ruta pensada para potenciar sus habilidades y profundizar en una formación integral para la vida.Abarca, por tanto, el fortalecimiento del saber y su relación con el contexto, mediante la interacción con los recursos didácticos apropiados para lograr este propósito.Video de bienvenidaCALIFICACIONES DEL MÓDULOACTIVIDADES EVALUATIVASENCUENTRO SINCRÓNICOSFORO GENERALANUNCIO DE MÓDULODerechos ReservadosPolitécnico Grancolombiano Institución Universitaria-v2
+

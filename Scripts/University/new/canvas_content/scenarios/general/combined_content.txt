@@ -1,0 +1,39 @@
+SCENARIO: GENERAL
+============================================================
+
+PAGE: Escenario 0
+----------------------------------------
+
+
+PAGE: Escenario 4
+----------------------------------------
+
+
+PAGE: Escenario 5
+----------------------------------------
+
+
+PAGE: Escenario 6
+----------------------------------------
+
+
+PAGE: Escenario 7
+----------------------------------------
+
+
+PAGE: Escenario 8
+----------------------------------------
+
+
+ASSOCIATED FILES:
+--------------------
+- _glow.swf (application/x-shockwave-flash)
+- lFbC82WX8yaO1j8U_small.png (image/png)
+- M5zt67_lbky392pV_WwyU2SpJxuptcGBS.jpg (image/jpeg)
+- 1wHe88GSO7ZsrAWK_q8U0FVaP74mGTtU9.png (image/png)
+- 2h1g9-NxrzeUs346_HsNC-oTPtJp0S2I2.png (image/png)
+- eay6_j2WQN75X2qM_DX-KXj-uSF8UkX30.gif (image/gif)
+- 2qijKBodl8czHMat_BmlIJTip4J-w9f2x.png (image/png)
+- 2Y5PyMOBAgR7-3wY_HsNC-oTPtJp0S2I2.png (image/png)
+- 2zrLafgid82x9Fv9_FDA7cLQHWW6jTz8h.gif (image/gif)
+- ytFUgzW67uB_yVvf_small_1524693843.jpg (image/jpeg)

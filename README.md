@@ -9,3 +9,8 @@ Bigquery
 - Dataset bigquery
 - Analysis functions
 - Conecction
+
+
+Pending - Collections
+
+- Hashmap

@@ -1,0 +1,70 @@
+{
+  "course_info": {
+    "id": 82683,
+    "name": "PRIMER BLOQUE-TEORICO-PRACTICO - VIRTUAL/ARQUITECTURA DE SOFTWARE-[GRUPO B01]",
+    "account_id": 21,
+    "uuid": "KHOgJVnODawMCWd71jLIseDcggZoCc7R2Mwqrmsm",
+    "start_at": null,
+    "grading_standard_id": null,
+    "is_public": false,
+    "created_at": "2025-07-02T22:20:49Z",
+    "course_code": "PRIMER BLOQUE-TEORICO-PRACTICO - VIRTUAL/ARQUITECTURA DE SOFTWARE-[GRUPO B01]",
+    "default_view": "wiki",
+    "root_account_id": 1,
+    "enrollment_term_id": 1202,
+    "license": "private",
+    "grade_passback_setting": null,
+    "end_at": null,
+    "public_syllabus": false,
+    "public_syllabus_to_auth": false,
+    "storage_quota_mb": 6291,
+    "is_public_to_auth_users": false,
+    "homeroom_course": false,
+    "course_color": null,
+    "friendly_name": null,
+    "apply_assignment_group_weights": false,
+    "calendar": {
+      "ics": "https://poli.instructure.com/feeds/calendars/course_KHOgJVnODawMCWd71jLIseDcggZoCc7R2Mwqrmsm.ics"
+    },
+    "time_zone": "America/Bogota",
+    "blueprint": false,
+    "template": false,
+    "enrollments": [
+      {
+        "type": "student",
+        "role": "StudentEnrollment",
+        "role_id": 3,
+        "user_id": 202804,
+        "enrollment_state": "active",
+        "limit_privileges_to_course_section": true
+      }
+    ],
+    "hide_final_grades": false,
+    "workflow_state": "available",
+    "restrict_enrollments_to_course_dates": false
+  },
+  "extraction_date": "2025-09-27 18:31:25",
+  "statistics": {
+    "total_pages": 10,
+    "total_files": 10,
+    "scenarios_identified": 4
+  },
+  "scenarios": {
+    "general": {
+      "pages_count": 6,
+      "files_count": 10
+    },
+    "scenario_1": {
+      "pages_count": 2,
+      "files_count": 0
+    },
+    "scenario_2": {
+      "pages_count": 1,
+      "files_count": 0
+    },
+    "scenario_3": {
+      "pages_count": 1,
+      "files_count": 0
+    }
+  }
+}

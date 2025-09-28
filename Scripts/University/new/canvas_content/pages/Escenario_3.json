@@ -1,0 +1,12 @@
+{
+  "title": "Escenario 3",
+  "url": "escenario-3",
+  "html_content": "<p><iframe style=\"width: 100%; height: 100vh; border: none;\" src=\"https://poli.instructure.com/courses/82683/files/82338831/download?verifier=7DiXTRMhZ24KNlTDjco7OarHYi0rwex6ORhhQTnN\" data-api-endpoint=\"https://poli.instructure.com/api/v1/courses/82683/files/82338831\" data-api-returntype=\"File\" loading=\"lazy\"></iframe></p>",
+  "text_content": "",
+  "links": [],
+  "iframes": [
+    "https://poli.instructure.com/courses/82683/files/82338831/download?verifier=7DiXTRMhZ24KNlTDjco7OarHYi0rwex6ORhhQTnN"
+  ],
+  "created_at": "2025-07-02T23:26:04Z",
+  "updated_at": "2025-07-02T23:26:04Z"
+}

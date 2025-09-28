@@ -1,0 +1,73 @@
+{
+  "scenario_name": "general",
+  "pages_count": 6,
+  "files_count": 10,
+  "pages": [
+    {
+      "title": "Escenario 0",
+      "url": "escenario-0"
+    },
+    {
+      "title": "Escenario 4",
+      "url": "escenario-4"
+    },
+    {
+      "title": "Escenario 5",
+      "url": "escenario-5"
+    },
+    {
+      "title": "Escenario 6",
+      "url": "escenario-6"
+    },
+    {
+      "title": "Escenario 7",
+      "url": "escenario-7"
+    },
+    {
+      "title": "Escenario 8",
+      "url": "escenario-8"
+    }
+  ],
+  "files": [
+    {
+      "name": "_glow.swf",
+      "size": 3202
+    },
+    {
+      "name": "lFbC82WX8yaO1j8U_small.png",
+      "size": 3288
+    },
+    {
+      "name": "M5zt67_lbky392pV_WwyU2SpJxuptcGBS.jpg",
+      "size": 100432
+    },
+    {
+      "name": "1wHe88GSO7ZsrAWK_q8U0FVaP74mGTtU9.png",
+      "size": 4708
+    },
+    {
+      "name": "2h1g9-NxrzeUs346_HsNC-oTPtJp0S2I2.png",
+      "size": 14709
+    },
+    {
+      "name": "eay6_j2WQN75X2qM_DX-KXj-uSF8UkX30.gif",
+      "size": 55119
+    },
+    {
+      "name": "2qijKBodl8czHMat_BmlIJTip4J-w9f2x.png",
+      "size": 13890
+    },
+    {
+      "name": "2Y5PyMOBAgR7-3wY_HsNC-oTPtJp0S2I2.png",
+      "size": 14709
+    },
+    {
+      "name": "2zrLafgid82x9Fv9_FDA7cLQHWW6jTz8h.gif",
+      "size": 150518
+    },
+    {
+      "name": "ytFUgzW67uB_yVvf_small_1524693843.jpg",
+      "size": 26696
+    }
+  ]
+}

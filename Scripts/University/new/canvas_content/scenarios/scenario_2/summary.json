@@ -1,0 +1,12 @@
+{
+  "scenario_name": "scenario_2",
+  "pages_count": 1,
+  "files_count": 0,
+  "pages": [
+    {
+      "title": "Escenario 2",
+      "url": "escenario-2"
+    }
+  ],
+  "files": []
+}
