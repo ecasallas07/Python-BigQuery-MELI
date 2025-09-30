@@ -328,7 +328,7 @@ canvas_content/
 def main():
     # Configuration
     API_URL = "https://poli.instructure.com/api/v1"
-    TOKEN = "8994~rABkDzmaDzmJNwuF4Y73Zz82fr9QxrEwFW3JcxE7NeXwGaNN4GXBHmBKxuHZ9KRJ"  # Replace with your actual token
+    TOKEN = "----"  # Replace with your actual token
     COURSE_ID = 82683
     
     # Initialize extractor

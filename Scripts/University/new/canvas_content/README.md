@@ -2,7 +2,7 @@
 
 ## Extraction Summary
 - **Course ID**: 82683
-- **Extraction Date**: 2025-09-27 18:31:25
+- **Extraction Date**: 2025-09-30 14:30:34
 - **Total Pages**: 10
 - **Total Files**: 10
 - **Scenarios Identified**: 4
